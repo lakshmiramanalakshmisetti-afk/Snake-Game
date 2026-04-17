@@ -1,0 +1,6 @@
+{
+  "name": "Simple Snake",
+  "description": "A classic, simple snake game.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
